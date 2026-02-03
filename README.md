@@ -52,6 +52,8 @@ Oyuncu, oyuna belirli bir karakter seçerek başlar. Her karakterin (Samuray, Ok
 <img width="972" height="620" alt="image" src="https://github.com/user-attachments/assets/645b4281-e0b7-4c6b-945d-f2779a981e83" />
 <img width="836" height="513" alt="image" src="https://github.com/user-attachments/assets/882530fb-c387-4a7a-a15b-c83c985ba15a" />
 <img width="596" height="312" alt="image" src="https://github.com/user-attachments/assets/4e4f0001-6523-4f2b-97af-7db1328977ed" />
+<img width="819" height="220" alt="image" src="https://github.com/user-attachments/assets/83f15747-74d3-4d7c-a152-e8cca58aea04" />
+
 
 
 
