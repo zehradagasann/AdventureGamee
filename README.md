@@ -54,9 +54,8 @@ Oyuncu, oyuna belirli bir karakter seçerek başlar. Her karakterin (Samuray, Ok
 
 | Karakter Seçimi | Savaş Ekranı |
 | :---: | :---: |
-| ![Karakter](<img width="606" height="190" alt="image" src="https://github.com/user-attachments/assets/3ed6eac2-2dd1-4e89-9703-4bd36483a3c3" />
-) | ![Savas](<img width="889" height="553" alt="image" src="https://github.com/user-attachments/assets/a39ebbf9-7d6f-450b-bc77-b1c0bdb11dfb" />
-) |
+| ![Karakter](<img width="606" height="190" alt="image" src="https://github.com/user-attachments/assets/3ed6eac2-2dd1-4e89-9703-4bd36483a3c3" />)
+ | ![Savas](<img width="889" height="553" alt="image" src="https://github.com/user-attachments/assets/a39ebbf9-7d6f-450b-bc77-b1c0bdb11dfb" />) 
 
 
 ---
